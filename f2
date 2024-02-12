@@ -17,3 +17,5 @@ System.out.println("the sum of two numbers:"+(a+b));
 }
 }
 >>>>>>> Stashed changes
+Hi this code will come from the git hub repository and if we use git pull or fecth only we can use and
+add this code into our local machine
